@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.3",
+    "slugify": "^1.6.6"
+  },
+  "name": "Introduction-nodeJS",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.js",
+    "dev": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
